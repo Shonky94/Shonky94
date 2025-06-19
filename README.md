@@ -1,5 +1,5 @@
 # 💫 About Me:
-Name: Shounak Khadilkar<br>Tagline (1-liner): Computer Engineering student | AI/ML Enthusiast | Full-Stack Developer<br><br>I'm a final-year Computer Engineering student at the University of Mumbai, passionate about solving real-world problems using AI and software. I love building intelligent systems, from machine learning models to full-stack applications. Currently exploring AI automation tools, MLOps, and deploying projects on the cloud.
+Shounak Khadilkar<br> Computer Engineering student | AI/ML Enthusiast | Full-Stack Developer<br><br>I'm a final-year Computer Engineering student at the University of Mumbai, passionate about solving real-world problems using AI and software. I love building intelligent systems, from machine learning models to full-stack applications. Currently exploring AI automation tools, MLOps, and deploying projects on the cloud.
 
 
 ## 🌐 Socials:
